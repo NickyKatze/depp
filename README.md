@@ -10,11 +10,9 @@ So here I am automating stuff.
 >
 > [xkcd: Automation](https://xkcd.com/1319/)
 
-<div style="text-align: center;">
-
-![Automation](https://imgs.xkcd.com/comics/automation.png)
-
-</div>
+<p align="center">
+  <img src="https://imgs.xkcd.com/comics/automation.png" title="'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'." alt="Automation" srcset="//imgs.xkcd.com/comics/automation_2x.png 2x" style="image-orientation:none">
+</p>
 
 ## Idea
 
