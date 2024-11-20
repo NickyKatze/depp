@@ -4,13 +4,17 @@ If you're anything like me, you are probably coding a lot of little projects and
 
 So here I am automating stuff.
 
-**DISCLAMER** this project is likely to be very specific and undermainained, so feel free to fork and adapt to your own needs.
+**DISCLAMER** this project is likely to be very specific and undermaintained, so feel free to fork and adapt to your own needs.
 
 > 'Automating' comes from the roots 'auto-' meaning 'self-', and 'mating', meaning 'screwing'.
 >
 > [xkcd: Automation](https://xkcd.com/1319/)
 
+<div style="text-align: center;">
+
 ![Automation](https://imgs.xkcd.com/comics/automation.png)
+
+</div>
 
 ## Idea
 
