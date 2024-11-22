@@ -1,6 +1,6 @@
 # DEPP - Dumb and Easy Project Placer
 
-If you're anything like me, you are probably coding a lot of little projects and every time you have to start a new one you're asking yourself: how was that again? The you go to recent projects to look up that specific thing you've been wondering how you did. Yeah, I feel you.
+If you're anything like me, you are probably coding a lot of little projects and every time you have to start a new one you're asking yourself: how was that again? Then you go to recent projects to look up that specific thing you've been wondering how you did. Yeah, I feel you.
 
 So here I am automating stuff.
 
