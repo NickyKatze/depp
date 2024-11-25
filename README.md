@@ -1,6 +1,6 @@
 # DEPP - Dumb and Easy Project Placer
 
-If you're anything like me, you are probably coding a lot of little projects and every time you have to start a new one you're asking yourself: how was that again? The you go to recent projects to look up that specific thing you've been wondering how you did. Yeah, I feel you.
+If you're anything like me, you are probably coding a lot of little projects and every time you have to start a new one you're asking yourself: how was that again? Then you go to recent projects to look up that specific thing you've been wondering how you did. Yeah, I feel you.
 
 So here I am automating stuff.
 
@@ -18,6 +18,14 @@ So here I am automating stuff.
 
 Write a bash script that, when run, will create a directory of specified name and copy some project specific files into it. And maybe, someday, do a `git init` or whatnot.
 
+## What it does
+
+* assumes, the next project is in Python
+* assumes the first user provided argument to be PROJETNAME
+* creates a directory PROJETNAME wherever the script is run
+* copies the LANG template into PROJECTNAME
+* does 'touch README.md'
+
 ## Usage
 
-You know how to run `.sh`, right?
+You know how to run `.sh`, right? Clone the repository, add an alias if you wish.
