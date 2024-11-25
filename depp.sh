@@ -28,7 +28,9 @@ place_template () { # pass parameters : 1: lang 2: name
         echo -e "${BRed}Project $PROJECTDIR already exists! Be more original!${Color_Off}"
     else
         mkdir $PROJECTDIR
-#         ls -lisah $PROJECTDIR
+        cp "$TEMPDIR/$LANG/"* "$PROJECTDIR/"
+        touch "$PROJECTDIR/README.md"
+        ls -lisah $PROJECTDIR
     fi
 }
 
